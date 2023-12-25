@@ -11,8 +11,8 @@ const HeaderView = () => {
       </h1>
 
       <nav className="flex gap-4 items-center">
-        <NavLink to={"/"}>Gönderiler</NavLink>
-        <NavLink to={"/add  "}>Gönderi Ekle</NavLink>
+        <NavLink to={"/"}>Posts</NavLink>
+        <NavLink to={"/add  "}>Add Post</NavLink>
       </nav>
     </div>
   )

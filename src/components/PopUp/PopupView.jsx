@@ -19,7 +19,7 @@ const PopupView = ({ posts, isOpen, setIsOpen }) => {
         </div>
 
         {!posts ? (
-          <p>loading</p>
+          <p>Loading...</p>
         ) : (
           posts.map((post) => (
             <div className="bg-black p-3 rounded-md my-4">

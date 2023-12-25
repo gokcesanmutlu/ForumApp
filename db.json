@@ -2,42 +2,48 @@
   "posts": [
     {
       "id": 1,
-      "user": "Mehmet",
-      "title": "React MVC Pattern(Mimari)",
-      "text": "MVC Mimari ile nasıl bileşenleri yöntirim??",
+      "user": "John",
+      "title": "React MVC Pattern",
+      "text": "How can ı manage to components with MVC Design?",
       "date": "2023-09-11T19:13:21.364Z"
     },
     {
       "id": 2,
-      "user": "Ali",
-      "title": "React MVVM Paterni",
-      "text": "Bu nedir???",
+      "user": "Marry",
+      "title": "React MVVM Pattern",
+      "text": "What does it means?",
       "date": "2023-09-11T19:13:21.364Z"
     },
     {
       "id": 3,
+      "user": "Gergely",
       "date": "2023-09-11T19:13:21.364Z",
       "title": "React MVC",
-      "text": "Bunu çalış",
-      "user": "Ahmet"
+      "text": "Work it"
     },
     {
-      "user": "Ahmet",
+      "user": "Marry",
       "title": "MVC Mantığı",
-      "text": "Nasıl Olucak?__",
+      "text": "What is the MVC Design?",
       "id": "d1d07fdd-de15-4b80-9e75-3aa06d5ac601"
     },
     {
-      "user": "Ahmet",
+      "user": "Hans",
       "title": "Typescript Proje",
-      "text": "merhaba.......",
+      "text": "You must finish website project.",
       "id": "9e838770-9b71-4cb7-9cfa-32cb06d974a6"
     },
     {
-      "user": "Ahmet",
+      "user": "Hans",
       "title": "Modem ",
-      "text": "Modem sorunu yaşıyorum",
+      "text": "There is a powerbox problem.",
       "id": "57bf686e-8057-4184-ae01-06b4a76185ab"
+    },
+    {
+      "user": "Hans",
+      "title": "Redux",
+      "text": "Explain Redux?",
+      "id": "00d07b19-1f7d-426d-8fa4-034298b24d4f"
     }
   ]
 }
